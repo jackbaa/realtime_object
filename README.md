@@ -1,4 +1,4 @@
-# Realtime Object Detection App
+# PocketAeye
 
 This Android app uses a pre-trained object detection model to perform realtime object detection using the device's camera.
 
