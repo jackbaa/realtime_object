@@ -2,6 +2,9 @@
 
 This Android app uses a pre-trained object detection model to perform realtime object detection using the device's camera.
 
+![Alt text](/![Screenshot_20240111_155940_PocketAeye](https://github.com/jackbaa/realtime_object/assets/61795891/fad3da7b-17bf-405a-ac34-b461471615c5)
+)
+
 ## Features
 
 - Realtime object detection using a pre-trained model.
