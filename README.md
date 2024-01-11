@@ -42,16 +42,3 @@ Ensure that the app has the necessary camera permissions. If not, the app will r
 4. Detected objects will be highlighted on the camera preview, and their names will be announced using text-to-speech.
 
 
-## Configuration
-
-- Model: The app uses the SsdMobilenetV1 object detection model. You can replace it with a different model if needed.
-
-- Labels: Labels for object classes are loaded from the "labels.txt" file. Ensure that it is present and correctly formatted.
-
-## Troubleshooting
-
-If you encounter issues, ensure that the necessary dependencies are installed, and the camera is functioning correctly on your device or emulator.
-
-## Contributing
-
-Feel free to contribute to this project by opening issues or submitting pull requests.
